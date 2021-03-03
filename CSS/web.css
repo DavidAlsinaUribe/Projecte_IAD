@@ -358,7 +358,6 @@ header {
 	background-color: rgba(0, 0, 0, 0.582);
 }
 #lightbox{
-	z-index: 1;
 	max-width: 75%;
 	height: fit-content;
 	padding: 10px 30px 10px 30px;
