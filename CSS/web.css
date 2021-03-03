@@ -348,6 +348,7 @@ header {
 	
 } */
 #blackOverlay{
+	z-index: 99999;
 	width: 100%;
 	height: 100%;
 	position: fixed;
@@ -856,7 +857,7 @@ header {
 	}
 	.lightbox-cont{
 		display: block;
-		width: fit-content;
+		/* width: fit-content; */
 		height: fit-content;
 	}
 	/* .cartaFlex{
